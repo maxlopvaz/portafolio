@@ -54,7 +54,7 @@ En mi rol como Administrador de Base de Datos y Contabilidad en Mármol y Canter
 
 ### Educación
 
-**Licenciatura en Física** (Incompleta)  
+**Licenciatura en Física**  
 _Benemérita Universidad Autónoma de Puebla_ • Puebla • 01/2013 - 06/2019
 
 ### Certificaciones
