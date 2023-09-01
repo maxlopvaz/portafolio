@@ -11,7 +11,7 @@ In my role as a Database and Accounting Administrator at Marmoles y Canteras Ló
 
 ### Education
 
-**Bachelor's Degree in Physics** (Incomplete)  
+**Bachelor's Degree in Physics**   
 _Benemérita Universidad Autónoma de Puebla_ • Puebla • 01/2013 - 06/2019
 
 ### Certifications
