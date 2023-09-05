@@ -1,4 +1,20 @@
 # Reducing Hospital Readmissions: Data Analysis and Predictive Modeling
+## Table of Contents
+- [Background](#background)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+  - [Handling Null Values](#handling-null-values)
+  - [Format and Classification](#format-and-classification)
+- [Primary Diagnosis by Age Group](#primary-diagnosis-by-age-group)
+  - [Diagnosis Distribution Among Age Groups](#diagnosis-distribution-among-age-groups)
+- [Effect of Diabetes Diagnosis](#effect-of-diabetes-diagnosis)
+  - [Percentage Breakdown of Readmissions by Diagnosis Type](#percentage-breakdown-of-readmissions-by-diagnosis-type)
+- [Statistical Analysis](#statistical-analysis)
+  - [Glucose Test and A1C Test](#glucose-test-and-a1c-test)
+- [Predictive Modeling](#predictive-modeling)
+  - [Model Performance](#model-performance)
+  - [Feature Importance Analysis](#feature-importance-analysis)
+- [Conclusion](#conclusion)
+
 ## Background
 The objective of this project is to assist a hospital group in gaining a better understanding of patient readmissions. The hospital provided ten years of patient data, including information on readmissions, diagnoses, procedures, and other variables. The goal is to determine if initial diagnoses, the number of procedures, or other factors can help predict and understand the probability of readmission. This information will enable the hospital to focus on follow-up calls and attention for patients with a higher probability of readmission.
 
