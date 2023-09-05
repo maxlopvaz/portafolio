@@ -1,43 +1,42 @@
 # Understanding the Local Electricity Market
 
+- [Background](#background)
+- [The Data](#the-data)
+- [Competition Challenge](#competition-challenge)
+  - [How do energy prices change throughout the year?](#1-how-do-energy-prices-change-throughout-the-year-are-there-any-patterns-by-season-or-month-of-the-year)
+  - [Build a forecast of daily energy prices](#2-build-a-forecast-of-daily-energy-prices-the-company-can-use-as-the-basis-of-its-financial-planning)
+  - [Provide guidance on revenue from the energy storage venture](#3-provide-guidance-on-how-much-revenue-the-energy-storage-venture-could-generate-per-year-using-retail-prices-and-a-70mwh-storage-system)
+- [Usage](#usage)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+
 ## Background
-You work for an energy company in Australia that is planning to expand to Melbourne, Victoria. The company aims to estimate energy prices for the next 12-18 months to use as the basis for contract negotiations. Additionally, the company is considering investing in energy storage capacity using batteries to generate additional revenue.
 
-## Data
-You have access to over five years of energy price and demand data.
+A company builds solar panel arrays and then sells the energy they produce to industrial customers. The company wants to expand to the city of Melbourne in the state of Victoria.
 
-## Objectives
-This project involves the following tasks:
+...
 
-1. Analyze how energy prices change throughout the year and identify patterns by season or month.
-2. Build a forecast of daily energy prices for financial planning.
-3. Estimate the potential annual revenue from an energy storage venture using retail prices and a 70MWh storage system.
+## The Data
 
-## Code Overview
+You have access to over five years of energy price and demand data, which includes various relevant attributes such as demand, price, temperature, solar exposure, and more. The company aims to estimate energy prices for the next 12-18 months to use as the basis for contract negotiations. Additionally, the company is considering investing in energy storage capacity using batteries to generate additional revenue.
 
-### Data Preparation
-- Load the dataset and parse the 'date' column.
-- Handle missing values in the 'solar_exposure' and 'rainfall' columns.
+...
 
-### Energy Price Analysis
-- Analyze energy price changes throughout the year.
-- Extract month and year from the 'date' column.
-- Calculate the average price per month.
-- Plot average prices by season and month.
+## How do energy prices change throughout the year? Are there any patterns by season or month of the year?
 
-### Price Forecasting
-- Set the 'date' column as the index.
-- Fit an ARIMA model to the historical price data.
-- Forecast future energy prices for the next 12-18 months.
-- Plot historical prices and forecasted prices.
+To understand energy price fluctuations, we analyzed historical data and identified the following patterns:
 
-### Energy Storage Revenue Estimation
-- Calculate price differentials between positive and negative prices.
-- Calculate energy stored and sold per day using price differentials.
-- Calculate utilization rate of the storage system.
-- Calculate revenue per day and annual revenue from the energy storage venture.
+...
 
-## Conclusion
-This project provided insights into energy price patterns throughout the year, forecasted daily energy prices, and estimated the potential annual revenue from an energy storage venture. These analyses can guide the company's financial planning and strategic decisions for its expansion into the Melbourne energy market.
+## Build a forecast of daily energy prices the company can use as the basis of its financial planning.
 
-For more details and code snippets, refer to the Jupyter Notebook provided in this repository.
+We used a time series forecasting model (ARIMA) to predict energy prices for the next 12-18 months. The forecasted prices can serve as a valuable resource for the company's financial planning.
+
+...
+
+## Provide guidance on how much revenue the energy storage venture could generate per year using retail prices and a 70MWh storage system.
+
+We estimated the potential revenue from the energy storage venture by analyzing historical data and the utilization rate of the storage system. The estimated annual revenue from the energy storage venture is approximately 1,505,852,383.94 AUD.
+
+...
+
