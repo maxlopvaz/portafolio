@@ -54,3 +54,5 @@ Feature importance analysis was conducted to understand the contribution of each
 This report provides insights into hospital readmissions, with a focus on diabetes patients. While diabetes diagnosis appears to be a factor in readmissions, other variables, such as A1C levels, also play a significant role. The logistic regression model offers a starting point for predicting readmissions, but additional refinement is required for practical implementation.
 
 The hospital should consider the findings of this analysis to prioritize follow-up efforts on patients with a higher probability of readmission, especially those with diabetes and elevated A1C levels. Further data collection and model optimization can lead to more accurate predictions and better patient care strategies.
+
+for more information about the procedures of these proyect check the jupyter notebook include in these repository.
