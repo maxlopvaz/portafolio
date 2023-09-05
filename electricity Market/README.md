@@ -2,23 +2,22 @@
 
 - [Background](#background)
 - [The Data](#the-data)
-- [Competition Challenge](#competition-challenge)
-  - [How do energy prices change throughout the year?](#1-how-do-energy-prices-change-throughout-the-year-are-there-any-patterns-by-season-or-month-of-the-year)
-  - [Build a forecast of daily energy prices](#2-build-a-forecast-of-daily-energy-prices-the-company-can-use-as-the-basis-of-its-financial-planning)
-  - [Provide guidance on revenue from the energy storage venture](#3-provide-guidance-on-how-much-revenue-the-energy-storage-venture-could-generate-per-year-using-retail-prices-and-a-70mwh-storage-system)
+- [How do energy prices change throughout the year?](#1-how-do-energy-prices-change-throughout-the-year-are-there-any-patterns-by-season-or-month-of-the-year)
+- [Build a forecast of daily energy prices](#2-build-a-forecast-of-daily-energy-prices-the-company-can-use-as-the-basis-of-its-financial-planning)
+- [Provide guidance on revenue from the energy storage venture](#3-provide-guidance-on-how-much-revenue-the-energy-storage-venture-could-generate-per-year-using-retail-prices-and-a-70mwh-storage-system)
 - [Usage](#usage)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Background
 
-A company builds solar panel arrays and then sells the energy they produce to industrial customers. The company wants to expand to the city of Melbourne in the state of Victoria.
+A company builds solar panel arrays and then sells the energy they produce to industrial customers. The company wants to expand to the city of Melbourne in the state of Victoria. The company aims to estimate energy prices for the next 12-18 months to use as the basis for contract negotiations. Additionally, the company is considering investing in energy storage capacity using batteries to generate additional revenue.
 
 ...
 
 ## The Data
 
-You have access to over five years of energy price and demand data, which includes various relevant attributes such as demand, price, temperature, solar exposure, and more. The company aims to estimate energy prices for the next 12-18 months to use as the basis for contract negotiations. Additionally, the company is considering investing in energy storage capacity using batteries to generate additional revenue.
+We have access to over five years of energy price and demand data, which includes various relevant attributes such as demand, price, temperature, solar exposure, and more. 
 
 ...
 
