@@ -9,6 +9,10 @@ Hello! I'm Maximiliano L.V., a passionate individual with over 4 years of experi
 _Database and Accounting Administrator_  
 In my role as a Database and Accounting Administrator at Marmoles y Canteras López, I led financial and administrative operations. My responsibilities included data analysis, budgeting, regulatory compliance, and generating financial reports. I provided an analytical perspective that contributed to the growth and efficiency of the company.
 
+Freelance and External Consultant • January 2023 - Present
+• Participation in personal and team projects as a freelancer and external consultant, addressing different challenges in data analysis projects, also taking part in the data science teams and data engineering applications to diverse fields.
+
+
 ### Education
 
 **Bachelor's Degree in Physics**   
@@ -33,8 +37,8 @@ _Benemérita Universidad Autónoma de Puebla_ • Puebla • 01/2013 - 06/2019
   [View Certificate](https://www.hackerrank.com/certificates/6892b4e9c3a2)
 
 ### Skills
+Python, Database administration, Microsoft Power BI, Communication and Visualization, MongoDB, Exploratory Data Analysis, SQL, PySpark, Data Management, Statistical Experimentation, Tableau, PostgreSQL, Herramientas de Anotación y Revisión de Datos (Labelbox, Amazon SageMaker Ground Truth), QA Manual, MS Excel, Google Spreadsheets
 
-Python, Database Administration, Microsoft Power BI, Communication and Visualization, MongoDB, Exploratory Data Analysis, SQL, Data Management, Statistical Experimentation, Tableau, PostgreSQL
 
 I am constantly seeking opportunities to apply my skills and knowledge to new challenges. If you are interested in collaboration or simply want to know more, feel free to contact me!
 
@@ -51,6 +55,10 @@ I am constantly seeking opportunities to apply my skills and knowledge to new ch
 **Mármol y Canteras López** • 08/2017 - 11/2022  
 _Administrador de Base de Datos y Contabilidad_  
 En mi rol como Administrador de Base de Datos y Contabilidad en Mármol y Canteras López, lideré las operaciones financieras y administrativas. Mis responsabilidades incluyeron el análisis de datos, la elaboración de presupuestos, el cumplimiento normativo y la generación de informes financieros. Aporté una perspectiva analítica que contribuyó al crecimiento y la eficiencia de la empresa.
+
+**Freelance and External Consultant** • Enero 2023 - Presente
+Participación en Proyectos personales y en proyectos con equipos diversos, como freelancer y consultor externo, buscando diferentes retos, especialmente en los proyectos relacionados con el analisis de datos, tambien formando parte en equipos de Ciencia de datos y en aplicaciones de ingenieria de Datos en diversos sectores.
+
 
 ### Educación
 
@@ -76,7 +84,6 @@ _Benemérita Universidad Autónoma de Puebla_ • Puebla • 01/2013 - 06/2019
   [Ver Certificado](https://www.hackerrank.com/certificates/6892b4e9c3a2)
 
 ### Habilidades
-
-Python, Administración de Bases de Datos, Microsoft Power BI, Comunicación y Visualización, MongoDB, Análisis Exploratorio de Datos, SQL, Gestión de Datos, Experimentación Estadística, Tableau, PostgreSQL
+Python, Database administration, Microsoft Power BI, Communication and Visualization, MongoDB, Exploratory Data Analysis, SQL, PySpark, Data Management, Statistical Experimentation, Tableau, PostgreSQL, Herramientas de Anotación y Revisión de Datos (Labelbox, Amazon SageMaker Ground Truth), QA Manual, MS Excel, Google Spreadsheets
 
 Estoy constantemente buscando oportunidades para aplicar mis habilidades y conocimientos en nuevos desafíos. Si estás interesado en colaborar o simplemente quieres saber más, ¡no dudes en contactarme!
