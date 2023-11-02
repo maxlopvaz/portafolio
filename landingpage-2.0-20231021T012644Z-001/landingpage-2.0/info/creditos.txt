@@ -1,0 +1,14 @@
+home logo : <a href="https://www.flaticon.com/free-animated-icons/address" title="address animated icons">Address animated icons created by Freepik - Flaticon</a>
+
+
+phone logo : <a href="https://www.flaticon.com/free-animated-icons/phone" title="phone animated icons">Phone animated icons created by Freepik - Flaticon</a>
+
+
+email logo : <a href="https://www.flaticon.com/free-animated-icons/email" title="email animated icons">Email animated icons created by Freepik - Flaticon</a>
+
+
+intro imagen : https://unsplash.com/photos/KdeqA3aTnBY?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink Photo by <a href="https://unsplash.com/@dylandgillis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dylan Gillis</a> on <a href="https://unsplash.com/photos/KdeqA3aTnBY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+
+imagen 2 de empresa:
+  Foto de <a href="https://unsplash.com/es/@isaacmsmith?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Isaac Smith</a> en <a href="https://unsplash.com/es/fotos/6EnTPvPPL6I?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
